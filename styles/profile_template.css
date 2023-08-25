@@ -1,0 +1,15 @@
+img {
+    width: 100px;
+}
+
+a {
+    color: blue;
+    text-align: center;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
